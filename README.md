@@ -4,3 +4,6 @@
 
 <h3 align="center">A passionate software developer from Massachusetts, US</h3>
 <br/>
+<div align="center">
+    I'm currently learning **Tailwind, React Native Expo**
+</div>
