@@ -25,10 +25,11 @@
 
 
 <h1> ⚒️ Languages-Frameworks-Tools ⚒️ </h1>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,postman,html,css,vscode,github,git,babel,django,docker" />
+<div>
+    <img align="left" src="https://skillicons.dev/icons?i=react,postman,html,css,vscode,github,git,babel,django,docker" />
     <br/> 
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb" /><br>
+    <img align="left" src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb" /><br>
+    <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </div>
 <hr/>
 
