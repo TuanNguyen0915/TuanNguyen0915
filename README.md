@@ -31,5 +31,5 @@
 </div>
 <h1 align="center">My GitHub Stats</h1>
 
-<img alt="my stats" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=TuanNguyen0915&rank_icon=github&show_icons=true&hide=stars" />
-<img alt="top languages" align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuanNguyen0915&layout=compact" />
+<img alt="my stats" align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=TuanNguyen0915&rank_icon=github&show_icons=true&hide=stars" />
+<img alt="top languages" align="center" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuanNguyen0915&layout=compact" />
