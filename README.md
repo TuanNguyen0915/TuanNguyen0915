@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!;I'm+Tuan+Nguyen!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!;I'm+Tuan+Nguyen!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Massachusetts, US</h3>
@@ -33,7 +33,7 @@
 <hr/>
 
 <h1 align="center">My GitHub Stats</h1>
-<img alt="my stats" align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=TuanNguyen0915&rank_icon=github&show_icons=true&hide=stars" />
-<img alt="top languages" align="center" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuanNguyen0915&layout=donut" />
+<img alt="my stats" align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=TuanNguyen0915&rank_icon=github&show_icons=true&hide=stars" />
+<img alt="top languages" align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuanNguyen0915&layout=donut" />
 
 
