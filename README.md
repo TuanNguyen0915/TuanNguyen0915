@@ -25,16 +25,16 @@
 
 
 <h1> ⚒️ Languages-Frameworks-Tools ⚒️ </h1>
-<div>
-    <img align="left" src="https://skillicons.dev/icons?i=react,postman,html,css,vscode,github,git,babel,django,docker" />
+<div align="center">
+    <img  src="https://skillicons.dev/icons?i=react,postman,html,css,vscode,github,git,babel,django,docker" />
     <br/> 
-    <img align="left" src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb" /><br>
-    <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+    <img  src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb" /><br>
 </div>
 <hr/>
 
 <h1 align="center">My GitHub Stats</h1>
-<img alt="my stats" align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=TuanNguyen0915&rank_icon=github&show_icons=true&hide=stars" />
-<img alt="top languages" align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuanNguyen0915&layout=donut" />
+<img alt="my stats" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=TuanNguyen0915&rank_icon=github&show_icons=true&hide=stars" />
+<img alt="top languages" align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuanNguyen0915&layout=donut" />
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
