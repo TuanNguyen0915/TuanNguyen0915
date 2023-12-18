@@ -5,7 +5,7 @@
 <h3 align="center">A passionate software developer from Massachusetts, US</h3>
 <br/>
 <div align="center">
-    I'm currently learning **Tailwind, React Native Expo**
+    I'm currently learning **React Native Expo**
     <br/>
     <h1>Contact Me</h1>
 </div>
@@ -26,7 +26,7 @@
 
 <h1> ⚒️ Languages-Frameworks-Tools ⚒️ </h1>
 <div align="center">
-    <img  src="https://skillicons.dev/icons?i=react,postman,html,css,vscode,github,git,babel,django,docker" />
+    <img  src="https://skillicons.dev/icons?i=react,postman,html,css,tailwind,vscode,github,git,babel,django,docker" />
     <br/> 
     <img  src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb" /><br>
 </div>
